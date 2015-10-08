@@ -1,2 +1,2 @@
 # shottio_api_docs
-Documentation for the Toggl API
+Documentation for the Shottio API
